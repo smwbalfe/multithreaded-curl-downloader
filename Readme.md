@@ -12,5 +12,4 @@
 - **Technologies Used:**
   - **C++:** The core programming language used for developing the downloader, ensuring high performance and system-level control.
   - **libcurl:** A client-side URL transfer library, supporting a variety of protocols and features for downloading files over the internet.
-  - **CMake:** Utilized for building, testing, and packaging the software, making it easy to compile and run on different platforms.
   - **Thread Pool Implementation:** A custom thread pool implementation is used to manage multiple threads efficiently, optimizing resource usage and improving download speeds.
